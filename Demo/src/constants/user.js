@@ -1,0 +1,5 @@
+export const userConstants = {
+    GET_ALL_REQUEST: 'GET_ALL_REQUEST',
+    GET_ALL_SUCCESS: 'GET_ALL_SUCCESS',
+    GET_ALL_ERROR: 'GET_ALL_ERROR'
+};

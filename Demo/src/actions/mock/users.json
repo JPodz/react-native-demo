@@ -1,0 +1,30 @@
+{
+    "total": 10,
+    "users": [
+        {
+            "id": 1,
+            "first_name": "John",
+            "last_name": "Lennon"
+        },
+        {
+            "id": 2,
+            "first_name": "Paul",
+            "last_name": "McCartney"
+        },
+        {
+            "id": 3,
+            "first_name": "Ringo",
+            "last_name": "Starr"
+        },
+        {
+            "id": 4,
+            "first_name": "George",
+            "last_name": "Harrison"
+        },
+        {
+            "id": 5,
+            "first_name": "Other",
+            "last_name": "Guy"
+        }
+    ]
+}
